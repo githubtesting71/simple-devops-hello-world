@@ -1,6 +1,16 @@
 # [simple-devops-hello-world](https://github.com/murshidazher/simple-devops-hello-world)
 
-A simple application to demonstrate ci/cd pipeline with jenkins, ansible, docker, and kubernetes
+A simple application to demonstrate ci/cd pipeline with jenkins, ansible, docker, and kubernetes.
+
+## Table of Contents
+
+- [simple-devops-hello-world](#simple-devops-hello-world)
+  - [Table of Contents](#table-of-contents)
+  - [Tools](#tools)
+  - [Flow](#flow)
+  - [License](#license)
+
+## Tools
 
 - `git` - source code management
 - `jenkins` - ci/cd pipeline
