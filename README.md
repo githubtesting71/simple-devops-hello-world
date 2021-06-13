@@ -13,4 +13,11 @@ A simple application to demonstrate ci/cd pipeline with jenkins, ansible, docker
 
 Once the developer develops a new feature, the source code is pushed to the `git`. The latest source code is then taken by `Jenkins` and build artifacts from it. The artifact should be deployed to a target environment like `docker` or `kubernetes`. We will be using `ansible` as deployment tool to deploy into `docker` or `kubernetes`.
 
-<img src="./docs/1.png"/>
+<details>
+  <summary>CI/CD Architecture</summary>
+  <img src="./docs/1.png"/>
+</details>
+
+## License
+
+[MIT](LICENSE) © 2021 Murshid Azher
